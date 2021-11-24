@@ -9,6 +9,11 @@ releaseDateColumn: true
 sortReleasesBy: 'release'
 changelogTemplate: https://github.com/angular/angular/releases/tag/__LATEST__
 releases:
+  - releaseCycle: "13"
+    release: 2021-11-17
+    support: 2022-05-04
+    eol: 2023-05-04
+    latest: "13.0.2"
   - releaseCycle: "12"
     release: 2021-05-12
     support: 2021-11-12
